@@ -55,3 +55,5 @@ Why not DCOM ?
 
 But ther is now a COM/DCOM version of the plugin.
 Please read : https://www.hmailserver.com/documentation/latest/?page=howto_dcom_permissions
+  
+[![ghit.me](https://ghit.me/badge.svg?repo=hazarkarabay/hmsfromrc)](https://ghit.me/repo/hazarkarabay/hmsfromrc)
